@@ -61,6 +61,7 @@
 | Pending     | English              | Functional Web Development with Elixir, OTP, and Phoenix                                | Book    | Technical | Humble Bundle   | &#x27A1;                                              |
 | Pending     | English              | Game Development with Rust and WebAssembly                                              | Book    | Technical | Humble Bundle   | &#x27A1;                                              |
 | Pending     | English              | Generative Art in Go                                                                    | Book    | Technical | Preslav Rachev  | &#x27A1;                                              |
+| Pending     | English              | Generators and Iterators                                                                | Article | Technical | Greg Reimer     | [&#x27A1;][link_generators_and_iterators]             |
 | Pending     | English              | Genetic Algorithms in Elixir                                                            | Book    | Technical | Humble Bundle   | &#x27A1;                                              |
 | Pending     | English              | GitHub For Dummies, 2nd Edition                                                         | Book    | Technical | Humble Bundle   | &#x27A1;                                              |
 | Pending     | English              | Go Programming - From Beginner to Professional                                          | Book    | Technical | Humble Bundle   | &#x27A1;                                              |
@@ -177,4 +178,5 @@
 [link_linux_device_drivers]: https://lwn.net/Kernel/LDD3/
 [link_crafting_interpreters]: https://craftinginterpreters.com/
 [link_engenharia_de_software_moderna]: https://engsoftmoderna.info/
+[link_generators_and_iterators]: https://greim.github.io/gen/dist/00-intro.html
 [link_functional_options_for_friendly_apis]: https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis

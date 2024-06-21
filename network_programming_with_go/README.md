@@ -7,7 +7,7 @@ Publisher: No Starch Press
 
 ---
 
-Current Progress: 12/393 (3.05%)
+Current Progress: 35/393 (8.91%)
 
 ## Notes
 
