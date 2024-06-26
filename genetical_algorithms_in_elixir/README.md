@@ -7,7 +7,7 @@ Publisher: The Pragmatic Programmers
 
 ---
 
-Current Progress: 24/235 (10.21%)
+Current Progress: 31/235 (13.19%)
 
 ## Notes
 
